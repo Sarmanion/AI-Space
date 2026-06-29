@@ -19,8 +19,6 @@
 * [Game AI-Studio](meta-models/game-ai-studio.md)
 * [Промт: Principal Editor](meta-models/promt-principal-editor.md)
 
-## Game AI-Studio
-
 ## Геймдизайн <a href="#game-design" id="game-design"></a>
 
 * [Senior Technical Recruiter](game-design/senior-technical-recruiter.md)
