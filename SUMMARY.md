@@ -39,7 +39,7 @@
 
 ## New
 
-* [Page 2](new/page-2.md)
+* [Space Troopers TD](new/space-troopers-td.md)
 * [Page 3](new/page-3.md)
 * [Page 4](new/page-4.md)
 * [Page 5](new/page-5.md)
