@@ -37,9 +37,9 @@
 * [Ответ-финал на ТЗ-Молдова](arkhiv/otvet-final-na-tz-moldova.md)
 * [Правило многокомпонентного деления исходящего сообщения (ПМДИС) - вряд ли нужно, переделать](arkhiv/pravilo-mnogokomponentnogo-deleniya-iskhodyashego-soobsheniya-pmdis-vryad-li-nuzhno-peredelat.md)
 
-## New
+## Game\_Projects
 
-* [Space Troopers TD](new/space-troopers-td.md)
-* [Page 3](new/page-3.md)
-* [Page 4](new/page-4.md)
-* [Page 5](new/page-5.md)
+* [Space Troopers TD](game_projects/space-troopers-td.md)
+* [Page 3](game_projects/page-3.md)
+* [Page 4](game_projects/page-4.md)
+* [Page 5](game_projects/page-5.md)
