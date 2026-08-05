@@ -40,6 +40,3 @@
 ## Game\_Projects
 
 * [Space Troopers TD](game_projects/space-troopers-td.md)
-* [Page 3](game_projects/page-3.md)
-* [Page 4](game_projects/page-4.md)
-* [Page 5](game_projects/page-5.md)
