@@ -1,0 +1,6 @@
+---
+description: 'SYSTEM INSTRUCTION: ADVANCED EXPERT-LEVEL TEXT DESIGN (COVER LETTER SYSTEM)'
+---
+
+# Senior Technical Recruiter
+
